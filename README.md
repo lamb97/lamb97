@@ -1,6 +1,6 @@
 ### Hi there, I'm Yang Liu 👋
 - 🌱 I’m currently learning Robotics,RL,Control...
-- 📫 How to reach me 16221871@cumt.edu.cn / 3297892150@qq.com
+- 📫 How to reach me 16221871@cumt.edu.cn / lamb97liu@gmail.com
 - ⚡ Fun fact: I love playing socccer and FIFA/2K. I am also very interested in playing Go(Weiqi). Welcome to play with me!😆
 
 <!---
